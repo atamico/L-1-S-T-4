@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TESTE" tvg-logo="https://lo1.in/BR/amc.png" group-title="AM",TESTE
+https://outbound-proxy-us-east1-0-glob-usercontent-client-id-4618285292.googleapis.com.pt/docs/aie/__index.m3u8?sv=179&nu3zAQc9HC3GbwJq=1749807360-kGqhBsP8VbJkHvG0m0nwaj5uR4tdJamhxBSDk3FEmF4%3D
 #EXTINF:-1 tvg-id="amc.br" tvg-logo="https://lo1.in/BR/amc.png" group-title="AM",BRAZIL HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162303.m3u8
 #EXTINF:-1 tvg-id="anhanguera.br" tvg-logo="https://lo1.in/BR/anhago.png" group-title="AM",ANHANGUERA GOIANIA
